@@ -30,7 +30,10 @@ comparison with the state-of-the-art methods.
 
 The SalFoM uses UMT as its feature encoder, and you can find UMT's pretrained weights on K400 [here](https://pjlab-gvm-data.oss-cn-shanghai.aliyuncs.com/umt/single_modality/l16_ptk710_ftk710_ftk400_f16_res224.pth) .
 
-The pretrained weights of SalFoM on DHF1K dataset are available [here](https://studentiunict-my.sharepoint.com/:u:/g/personal/mrdmtz92s11z224o_studium_unict_it/EWurLIAL4aZMsKolSQGgmzQBWk03GIj4u5gAWcVAK4oiWg?e=Nwfcp4) .
+The pretrained weights of SalFoM on DHF1K dataset are available [here](https://studentiunict-my.sharepoint.com/:u:/g/personal/mrdmtz92s11z224o_studium_unict_it/EWurLIAL4aZMsKolSQGgmzQBWk03GIj4u5gAWcVAK4oiWg?e=Nwfcp4).
+
+In order to train and test our model we used the scripts from the [TMFI-Net repository](https://github.com/wusonghe/TMFI-Net).
+
 
 
 ## Cite
