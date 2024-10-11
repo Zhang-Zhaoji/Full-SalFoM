@@ -6,7 +6,7 @@ from einops import rearrange
 import argparse
 from einops.layers.torch import Rearrange
 from Unmasked_Teacher.single_modality.models.modeling_finetune import vit_base_patch16_224, vit_base_patch16_384, vit_large_patch16_224, vit_large_patch16_384
-from VFM_SW_zigzag_swin.SW_1st_layer_depth3 import SwinTransformer3D_customized as att_layer
+from Transformer_module import SwinTransformer3D_customized as att_layer
 
 
 PATH = '----path to ----/l16_ptk710_ftk710_ftk400_f16_res224.pth'
