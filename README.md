@@ -34,7 +34,6 @@ The pretrained weights of SalFoM on DHF1K dataset are available [here](https://s
 
 In order to train and test our model we used the scripts from the [TMFI-Net repository](https://github.com/wusonghe/TMFI-Net).
 
-The codes and model weights for the experiments reported in RRPR 2024 are available [here](https://studentiunict-my.sharepoint.com/:f:/g/personal/mrdmtz92s11z224o_studium_unict_it/En-DC8Ieo29DrRWBiUg4emUBSxsI7oXn61pSYsxoANSuhg?e=qr3nLb).
 
 
 ## Cite
