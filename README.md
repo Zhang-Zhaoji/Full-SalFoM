@@ -40,14 +40,13 @@ In order to train and test our model we used the scripts from the [TMFI-Net repo
 If you find this repository helpful, please cite it using the following BibTeX entry.
 
 ```latex
-@misc{moradi2024salfomdynamicsaliencyprediction,
-      title={SalFoM: Dynamic Saliency Prediction with Video Foundation Models}, 
-      author={Morteza Moradi and Mohammad Moradi and Francesco Rundo and Concetto Spampinato and Ali Borji and Simone Palazzo},
-      year={2024},
-      eprint={2404.03097},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2404.03097}, 
+@inproceedings{moradi2025salfom,
+  title={Salfom: Dynamic saliency prediction with video foundation models},
+  author={Moradi, Morteza and Moradi, Mohammad and Rundo, Francesco and Spampinato, Concetto and Borji, Ali and Palazzo, Simone},
+  booktitle={International Conference on Pattern Recognition},
+  pages={33--48},
+  year={2025},
+  organization={Springer}
 }
 ```
 
