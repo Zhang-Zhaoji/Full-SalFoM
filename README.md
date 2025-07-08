@@ -1,7 +1,9 @@
 # SalFoM: Dynamic Saliency Prediction with Video Foundation Models
 
-This repo is the official PyTorch implementation of ["SalFoM: Dynamic Saliency Prediction with Video Foundation Models"](https://arxiv.org/pdf/2404.03097).
+This repo is forked from the official PyTorch implementation of ["SalFoM: Dynamic Saliency Prediction with Video Foundation Models"](https://arxiv.org/pdf/2404.03097).
 By Morteza Moradi, Mohammad Moradi, Francesco Rundo, Concetto Spampinato, Ali Borji,  and Simone Palazzo.
+
+I added some essential script to do inference.
 
 # Abstract
 
@@ -28,7 +30,7 @@ comparison with the state-of-the-art methods.
 
 ## Model weights
 
-The SalFoM uses UMT as its feature encoder, and you can find UMT's pretrained weights on K400 [here](https://pjlab-gvm-data.oss-cn-shanghai.aliyuncs.com/umt/single_modality/l16_ptk710_ftk710_ftk400_f16_res224.pth) .
+The SalFoM uses UMT as its feature encoder, and you can find UMT's pretrained weights on K400 [here](https://huggingface.co/OpenGVLab/UMT/blob/main/single_modality/l16_ptk710_ftk710_ftk400_f16_res224.pth) .
 
 The pretrained weights of SalFoM on DHF1K dataset are available [here](https://studentiunict-my.sharepoint.com/:u:/g/personal/mrdmtz92s11z224o_studium_unict_it/EWurLIAL4aZMsKolSQGgmzQBWk03GIj4u5gAWcVAK4oiWg?e=Nwfcp4).
 
